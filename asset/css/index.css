@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  color: white;
+  background-color: black;
+  font-family: 'Brush Script MT', cursive;
+}
+
+p {
+  margin: 0px;
+  text-shadow: 2px 2px 5px white;
+}
+
+#gui {
+  width: 300px;
+  height: 600px;
+  overflow-y: auto;
+  background-color: #526166;
+}
+
+#head-text {
+  text-align: center;
+}
+
+#tv-static {
+  border-radius: 5px;
+  display: none;
+}
+
+#code {
+  padding: 5px;
+  width: 250px;
+  margin: auto;
+  border: none;
+  font-family: monospace;
+  color: limegreen;
+  border-radius: 3px;
+  background-color: black;
+}
+
+#manual {
+  width: 300px;
+  height: 100px;
+  color: black;
+  border-radius: 5px;
+  font-family: monospace;
+  background-color: #f5d4a0;
+}
+
+.header {
+  font-size: 50px;
+}
+
+.low-header {
+  font-size: 30px;
+}
+
+.btn {
+  width: 200px;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: monospace;
+  background-color: #a98957;
+}
+
+.btn:hover {
+  cursor: pointer;
+}

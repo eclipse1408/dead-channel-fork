@@ -1,0 +1,1 @@
+window.open("https://candle-wood.codesalvageon.repl.co/", "", "width=501,height=601");
